@@ -41,3 +41,4 @@ tenacity
 beautifulsoup4
 deepdiff>=8.6.1
 pytest
+lazyllm
