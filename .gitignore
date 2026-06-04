@@ -1,7 +1,6 @@
 .pre-commit-config.yaml
 
 # temp files
-tests/
 .cache/
 .temp/
 
