@@ -1,1 +1,15 @@
 .pre-commit-config.yaml
+
+# temp files
+tests/
+.cache/
+.temp/
+
+# python files
+__pycache__
+*.pyc
+
+# dev tools
+.vscode
+.claude
+.cursor
